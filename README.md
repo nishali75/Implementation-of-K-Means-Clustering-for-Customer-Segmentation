@@ -29,6 +29,7 @@ To write a Python program to implement K-Means Clustering for customer segmentat
 # Program to implement K-Means Clustering
 # for Customer Segmentation.
 
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
